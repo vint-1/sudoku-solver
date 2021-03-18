@@ -1,2 +1,2 @@
 # Sudoku Solver
-Solution to advanced sudoku problem (extra constraints) is found in adv_solve.py
+Adv_solve.py contains solver for sudoku problem with extra constraints
